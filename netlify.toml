@@ -1,0 +1,8 @@
+[build]
+publish = "dist"
+command = "hugo -d ../dist -s site -v"
+
+[context.production.environment]
+HUGO_VERSION = "0.69.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
