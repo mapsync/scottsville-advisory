@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "City of Scottsville"
+title = "Scottsville Advisory"
 
 [params]
     Id = "scottsvilleky"
