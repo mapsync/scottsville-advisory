@@ -25,7 +25,7 @@ contact_entries:
       Dr. Mark Huntsman – (270) 237-3655  
       Michael McGuire – (270) 925-4021  
      
-      City Council meetings are held the 2 nd Monday of each month at 6:00 p.m. at City Hall.
+      City Council meetings are held the 2nd Monday of each month at 6:00 p.m. at City Hall.
   - heading: Information
     text: |
       Mayor’s Office  
