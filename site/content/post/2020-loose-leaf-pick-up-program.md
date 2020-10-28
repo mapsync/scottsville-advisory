@@ -9,7 +9,7 @@ image: /img/leafpickupzonemap.jpg
 
  *(Dates subject to change)*
 
-**Zone 1 orange:** [(Click here for Map)](https://scottsvilleky.geosync.cloud/map/)
+**Zone 1 orange:**
 
 * Tuesday, Nov. 3rd through Friday Nov. 6th
 * Tuesday, Nov. 17th through Friday Nov. 20th
