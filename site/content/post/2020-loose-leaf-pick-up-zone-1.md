@@ -1,11 +1,11 @@
 ---
-title: 2020 Loose Leaf Pick Up - ZONE 1
-draft: true
+title: Leaf Pick Up - ZONE 1
+draft: false
 date: 2020-10-28T14:02:38.438Z
 description: City of Scottsville Public Works Department
-image: /img/leafpickupzonemap.jpg
+image: /img/leafpickupzone1map.jpg
 ---
-### ***\--- Zones and Dates ---***
+### ***\--- Zone 1 Dates ---***
 
  *(Dates subject to change)*
 
@@ -15,11 +15,7 @@ image: /img/leafpickupzonemap.jpg
 * Tuesday, Nov. 17th through Friday Nov. 20th
 * . . .
 
-**Zone 2 purple:**
 
-* Monday Nov. 9th & Tuesday Nov. 10th
-* Monday Nov. 23rd & Tuesday Nov. 24th
-* . . .
 
 ### **\--- Citizen Guidelines ---**
 
