@@ -1,6 +1,6 @@
 ---
 title: 2020 Loose Leaf Pick Up Program
-draft: true
+draft: false
 date: 2020-10-28T13:16:22.969Z
 description: City of Scottsville Public Works Department
 image: /img/leafpickupzonemap.jpg
