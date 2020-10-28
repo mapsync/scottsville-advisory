@@ -5,7 +5,7 @@ date: 2020-10-28T13:16:22.969Z
 description: City of Scottsville Public Works Department
 image: /img/leafpickupzonemap.jpg
 ---
-## ***\>>> Work Zones and Dates <<<***
+## ***\--- Work Zones and Dates ---***
 
  *(Dates subject to change)*
 
@@ -21,15 +21,7 @@ image: /img/leafpickupzonemap.jpg
 * Monday Nov. 23rd & Tuesday Nov. 24th
 * . . .
 
-
-
-
-
-
-
-
-
-### **\>>> Citizen Guidelines <<<**
+### **\--- Citizen Guidelines ---**
 
 1. The city is divided into four (4) work zones. Leaf Pickup operations will not begin in a zone before it's scheduled pickup dates.
 2. Leaves should be raked to the edge of the street BEFORE the first pick up day.
