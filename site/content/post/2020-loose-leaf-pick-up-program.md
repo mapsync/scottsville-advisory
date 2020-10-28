@@ -1,6 +1,6 @@
 ---
 title: 2020 Loose Leaf Pick Up Program
-draft: true
+draft: false
 date: 2020-10-28T13:16:22.969Z
 description: City of Scottsville Public Works Department
 image: /img/leafpickupzonemap.jpg
@@ -9,7 +9,7 @@ image: /img/leafpickupzonemap.jpg
 
  *(Dates subject to change)*
 
-**Zone 1 orange:** (Click here for Map)
+**Zone 1 orange:** [(Click here for Map)](https://scottsvilleky.geosync.cloud/map/)
 
 * Tuesday, Nov. 3rd through Friday Nov. 6th
 * Tuesday, Nov. 17th through Friday Nov. 20th
