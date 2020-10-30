@@ -1,5 +1,5 @@
 ---
-title: Transit Schedule Change
+title: Transit Schedule Change Nov 2-6
 draft: false
 date: 2020-10-30T15:25:13.085Z
 description: November 2 - 6
