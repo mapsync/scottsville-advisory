@@ -1,8 +1,8 @@
 ---
-title: Transit Schedule Change Nov 2-6
+title: Transit Schedule Change Nov 9
 draft: false
-date: 2020-10-30T15:25:13.085Z
-description: November 2 - 6
+date: 2020-11-08T16:25:13.085Z
+description: November 9, 2020
 image: /img/primary-lightbkgd-4x.png
 ---
-Beginning on Monday, November 2, Scottsville Transit will be running 7:00 am to 4:00 pm Monday, Tuesday, Wednesday and Friday.
+Beginning on Monday, November 9, Scottsville Transit will be running 7:00 AM to 4:00 PM Monday, Wednesday and Friday.
