@@ -1,10 +1,10 @@
 ---
 title: Community Action Sign Up
 draft: false
-date: 2020-12-09T12:36:55.399Z
-description: LIHEAP and Healthy at Home Utility Relief Fund
+date: 2020-12-19T02:30:40.443Z
+description: Healthy at Home Utility Relief Fund
 ---
-Low Income Home Energy Assistance Program (LIHEAP) applications are being accepted at Community Action through December 11, 2020.
+
 
 Healthy at Home Utility Relief Fund applications are being accepted at Community Action through December 30, 2020.
 
