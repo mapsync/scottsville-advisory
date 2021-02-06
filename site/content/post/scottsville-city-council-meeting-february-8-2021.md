@@ -10,7 +10,7 @@ The Scottsville City Council will be meeting on Monday, February 8, 2021 at 10 A
 You can attend the virtual meeting by audio and/or video following these steps:
 
 1. Go to zoom.us
-
 2. Join Meeting
-
 3. Meeting ID:  935 0452 5248  Passcode:  921172
+
+   \*\*You can watch the meeting Live on Facebook by going to City of Scottsville Facebook page\*\*
