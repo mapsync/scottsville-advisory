@@ -1,7 +1,7 @@
 ---
-title: No Thursday Trash Pick Up
+title: "Thursday Trash Picked Up Friday "
 draft: false
-date: 2021-02-18T11:38:12.987Z
-description: "Picked up on Friday "
+date: 2021-02-19T08:16:53.201Z
+description: Thursday and Friday Trash Pick Up
 ---
-There will be no Thursday trash pick up due to hazardous road conditions. Thursday’s trash will be picked up on Friday, along with normal Friday customers.
+Thursday’s trash will be picked up Friday, along with regular Friday customers.
