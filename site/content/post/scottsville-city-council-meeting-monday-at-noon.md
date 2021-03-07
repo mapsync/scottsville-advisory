@@ -2,8 +2,7 @@
 title: Scottsville City Council Meeting Monday at Noon
 draft: false
 date: 2021-03-07T05:33:07.145Z
-description: Scottsville City Council Meeting by Zoom Teleconference. Meeting
-  carried Live on Scottsville City Facebook page.
+description: Zoom meeting will also be carried Live on Scottsville City Facebook page.
 ---
 The Scottsville City Council will meet in a Special Called meeting by Zoom teleconference.
 
