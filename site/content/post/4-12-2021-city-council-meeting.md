@@ -2,7 +2,7 @@
 title: 4/12/2021 City Council Meeting
 draft: false
 date: 2021-04-09T19:49:32.482Z
-description: City Council Meeting
+description: "Scottsville City Council Regular Session Meeting at Noon. "
 ---
 Join Zoom Meeting
 
