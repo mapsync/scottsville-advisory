@@ -6,8 +6,6 @@ description: Scottsville Transit Bus will continue Free Bus Rides through Septem
 ---
 
 
-Free rides until September 1, 2021
-
 Running Monday through Friday
 
 Hours 7:00A.M. - 6:00P.M.
