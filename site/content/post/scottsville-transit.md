@@ -8,11 +8,9 @@ Notice
 
 Scottsville Transit
 
-Free rides until June 1, 2021
+Free rides until September 1, 2021
 
 Running Monday through Friday
-
-Regular Schedule Beginning April 19th
 
 Hours 7:00A.M. - 6:00P.M.
 
