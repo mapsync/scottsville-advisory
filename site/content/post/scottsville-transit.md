@@ -4,9 +4,7 @@ draft: false
 date: 2021-04-16T14:07:10.899Z
 description: Scottsville Transit Bus will continue Free Bus Rides through September 1, 2021.
 ---
-Notice
 
-Scottsville Transit
 
 Free rides until September 1, 2021
 
