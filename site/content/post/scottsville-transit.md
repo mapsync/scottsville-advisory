@@ -1,5 +1,5 @@
 ---
-title: "Scottsville Transit "
+title: Free Rides on Scottsville Transit Bus until September 1, 2021
 draft: false
 date: 2021-04-16T14:07:10.899Z
 description: Scottsville Transit Notice
