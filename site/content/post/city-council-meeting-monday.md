@@ -9,12 +9,4 @@ Scottsville City Council returns to in person meetings Monday, July 12, in the C
 
 The first monthly council meeting of each month is held on the second Monday at noon and the second monthly council meeting is held on the fourth Monday at 6 PM. 
 
-You can also can continue attending meetings by Zoom teleconference.
-
-1. Go to zoom.us
-
-2. Click "Join Meeting"
-
-3. Meeting ID:  816 7330 1796
-
-4. Passcode:  145627
+You can also watch Live on YouTube by going to Allen County Scottsville United
