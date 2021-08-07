@@ -8,4 +8,4 @@ Scottsville City Council will meet in person at Noon on Monday, August 9, in the
 
 If you’re not vaccinated, you will be required to wear a mask. 
 
-The meeting will be on Facebook Live in City of Scottsville page.
+The meeting will be on Facebook Live on City of Scottsville page.
