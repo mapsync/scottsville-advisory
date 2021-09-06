@@ -7,6 +7,8 @@ description: |
 ---
 Monday’s trash will be picked up on Tuesday, along with regular Tuesday customers. 
 
+If there’s issues with water or gas, call dispatch at 270.237.3611. 
+
 The City bus will not be running Monday, but back on schedule Tuesday morning starting at 7:00 am. 
 
 Any questions, call the Mayor’s office at 270.237.3238. 
