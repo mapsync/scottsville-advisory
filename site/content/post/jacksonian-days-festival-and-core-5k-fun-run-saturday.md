@@ -9,4 +9,4 @@ Farmers Market, Food and Retail vendors, Up All Night Cakewalk and other fun eve
 
 Broken Road will perform from 2 PM-4 PM in the Library Quadrant.
 
-CORE 5K/Fun Run will start on East Main Street in front of US Bank. Fun Run at 8 am and 5K at 8:15 am.
+CORE 5K/Fun Run will start on East Main Street in front of US Bank. Fun Run at 8:15 am and 5K at 8:30am.
