@@ -1,5 +1,5 @@
 ---
-title: Smoke Testing Begins On North Side
+title: Smoke Testing Continues On North Side
 draft: false
 date: 2021-10-05T13:14:05.924Z
 description: "The Sanitary Sewer Evaluation Survey (SSES) area will be on the
