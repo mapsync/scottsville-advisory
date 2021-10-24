@@ -1,12 +1,11 @@
 ---
-title: Boil Water Advisory
+title: Boil Water Advisory Lifted at Noon
 draft: false
 date: 2021-10-22T15:39:19.430Z
-description: Jackson Avenue & Maysville Road
+description: "Boil water advisory for Jackson Avenue & Maysville Road has been
+  lifted as of Noon. "
 image: /img/script-color-4x.png
 ---
-<!--StartFragment-->
+Water testing results are back and no issues found. 
 
-The water leak has been fixed. Jackson Avenue and Maysville Road are under a Boil Water Advisory until further notice.
-
-<!--EndFragment-->
+Boil Water advisory has been lifted.
