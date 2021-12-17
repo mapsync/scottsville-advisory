@@ -4,6 +4,7 @@ draft: false
 date: 2021-12-17T13:19:31.554Z
 description: "The Scottsville City Council will meet in Special Session on
   Wednesday, December 22, at 9 am by Zoom teleconference. "
+image: /img/bfdd7555-5f14-4763-a921-492210dcbcbc.jpeg
 ---
 The City Council will be meeting to vote on a resolution to authorize the Mayor to sign all documents pertaining to the final agreement with Suez Company concerning the Smart Meters Program.  This will be the only item on the agenda.
 
