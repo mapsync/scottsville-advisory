@@ -1,5 +1,5 @@
 ---
-title: Christmas and New Year’s Hours Trash Routes
+title: Christmas and New Year’s Hours and Trash Routes
 draft: false
 date: 2021-12-21T01:18:06.830Z
 description: Scottsville City Offices will be closed on Friday, December 24,
