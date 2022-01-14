@@ -6,3 +6,5 @@ description: "Scottsville City offices will be closed on Monday, January 17, in
   observance of Dr. Martin Luther King, Jr’s birthday. "
 ---
 Monday’s trash will be picked up on Tuesday, January 18, along with regular Tuesday customers.
+
+There will be no bus service Monday.
