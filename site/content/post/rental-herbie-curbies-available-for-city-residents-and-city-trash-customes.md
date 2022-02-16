@@ -1,5 +1,5 @@
 ---
-title: Rental Herbie Curbies Available for City Residents and City Trash Customes
+title: "Rental Herbie Curbies Available for City Residents and City Trash Customers "
 draft: false
 date: 2022-02-15T21:20:31.980Z
 description: City of Scottsville offering herbie curbie trash receptables for
