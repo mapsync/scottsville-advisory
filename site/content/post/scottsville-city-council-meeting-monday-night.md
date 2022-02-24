@@ -7,4 +7,4 @@ description: Scottsville City Council will meet in regular session at 6 PM in
 ---
 Council will meet in the council room located on the second floor of the City-County Building at 201 W Main Street.
 
-Superintendent Travis Hamby will be making a presentation on Allen County Schools which will be very informative about personnel, budget and operations.
+Superintendent Travis Hamby will be making a presentation on Allen County School District personnel, budget and operations.
