@@ -7,4 +7,4 @@ description: "Scottsville City Council will meet in a Special Called Session on
 ---
 The City Council will meet in the Council Room on the 2nd floor at the City County Building. 
 
-The only item on the agenda is an Executive Session if  interviews and possible hire of a new City Clerk.
+The only item on the agenda is an Executive Session concerning interviews and possible hire of a new City Clerk.
