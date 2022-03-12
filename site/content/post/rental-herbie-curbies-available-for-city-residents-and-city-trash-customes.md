@@ -7,4 +7,4 @@ description: City of Scottsville offering herbie curbie trash receptables for
 ---
 To rent one, call the Scottsville Water Department at 270.237.4402 for more information and schedule a delivery.  
 
-\*\*The rentals are for City of Scottsville residents and City trash customers only\*\*
+\*\*The rentals are for City of Scottsville residents and City commercial trash customers only\*\*
