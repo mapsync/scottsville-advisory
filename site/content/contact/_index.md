@@ -50,17 +50,17 @@ contact_entries:
       Email: GCook@CityofScottsville.org  
 
       City Clerk’s Office  
-      Gayle Davis  
+      Lauren Cherry
       201 West Main Street, Suite 10  
       Scottsville, KY 42164  
       PHONE: 270-237-3238  
-      Email: GDavis@CityofScottsville.org  
+      Email: lcherry@cityofscottsville.org  
 
       Kortney Keen, Assistant City Clerk  
       201 West Main Street, Suite 11  
       Scottsville, KY 42164  
       PHONE: 270-237-3238  
-      Email: KHurt@CityofScottsville.org  
+      Email: kkeen@CityofScottsville.org  
 
       City Treasurer’s Office  
       Evelina Anderson, City Treasurer  
@@ -83,11 +83,11 @@ contact_entries:
       Email: BSloan@CityofScottsville.org  
 
       Scottsville Transit  
-      Gayle Davis, Transit Manager  
+      Transit Manager  
       201 West Main Street, Suite 10  
       Scottsville, KY 42164  
       PHONE: 270-237-3238  
-      Email: GDavis@CityofScottsville.org  
+      Email:   
 
       Michala Thomas, Assistant Transit Manager  
       201 West Main Street, Suite 11  
@@ -102,7 +102,7 @@ contact_entries:
       PHONE: (270) 622-0598  
 
       Scottsville Water Treatment Plant  
-      Donnie Reels, WTP Supervisor  
+      Dillon Francis, WTP Supervisor  
       800 Hurricane Shores  
       Scottsville, KY 42164  
       PHONE: 270-622-4440  
@@ -128,7 +128,7 @@ contact_entries:
       PHONE: 270-237-4402  
       Email: JHobdy@CityofScottsville.org  
 
-      Marsh Britt, Water Clerk  
+      Marsha Britt, Water Clerk  
       201 West Main Street  
       Scottsville, KY 42164  
       PHONE: 270-237-3831  
