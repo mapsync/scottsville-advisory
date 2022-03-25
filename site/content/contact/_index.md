@@ -27,12 +27,12 @@ contact_entries:
 
       Ken Goforth – (270) 237-3640  
 
-      Dr. Mark Huntsman – (270) 237-3655  
+      Dr. Mark Huntsman – (270) 622-8951  
 
       Michael McGuire – (270) 606-5217
 
 
-      City Council meetings are held the 2nd Monday of each month at 6:00 p.m. at City Hall.
+      City Council meetings are held the 2nd Monday of each month at 6:00 p.m. at City Hall and the 4th Monday of each month at noon.
   - heading: Information
     text: |
       Mayor’s Office  
