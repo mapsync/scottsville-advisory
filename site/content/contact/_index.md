@@ -19,17 +19,17 @@ contact_entries:
       https://www.facebook.com/cityofscottsville
   - heading: City Council
     text: >
-      Beverly Tracy Anderson 
+      Beverly Tracy Anderson
 
-      Rogerlynne Briddon 
+      Rogerlynne Briddon
 
-      Dr. Franklin Foster 
+      Dr. Franklin Foster
 
-      Ken Goforth 
+      Ken Goforth
 
-      Dr. Mark Huntsman 
+      Dr. Mark Huntsman
 
-      Michael McGuire 
+      Michael McGuire
 
 
       City Council meetings are held the 2nd Monday of each month at noon at City Hall and the 4th Monday of each month at 6:00 pm.
