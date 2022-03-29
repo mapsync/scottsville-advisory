@@ -19,17 +19,17 @@ contact_entries:
       https://www.facebook.com/cityofscottsville
   - heading: City Council
     text: >
-      Beverly Tracy Anderson – (270) 237-4635  
+      Beverly Tracy Anderson 
 
-      Rogerlynne Briddon – (270) 237-4073  
+      Rogerlynne Briddon 
 
-      Dr. Franklin Foster – (270) 237-4607  
+      Dr. Franklin Foster 
 
-      Ken Goforth – (270) 237-3640  
+      Ken Goforth 
 
-      Dr. Mark Huntsman – (270) 622-8951  
+      Dr. Mark Huntsman 
 
-      Michael McGuire – (270) 606-5217
+      Michael McGuire 
 
 
       City Council meetings are held the 2nd Monday of each month at noon at City Hall and the 4th Monday of each month at 6:00 pm.
