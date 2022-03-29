@@ -32,7 +32,7 @@ contact_entries:
       Michael McGuire – (270) 606-5217
 
 
-      City Council meetings are held the 2nd Monday of each month at 6:00 p.m. at City Hall and the 4th Monday of each month at noon.
+      City Council meetings are held the 2nd Monday of each month at noon at City Hall and the 4th Monday of each month at 6:00 pm.
   - heading: Information
     text: |
       Mayor’s Office  
