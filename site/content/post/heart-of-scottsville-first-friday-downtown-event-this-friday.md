@@ -10,3 +10,5 @@ The Scottsville Square will close at 4 PM on Friday to allow vendors to set up.
 Food trucks, vendors and music will fill the downtown square.
 
 The Allen County Public Library will be kicking off  Summer Reading 2022, "Oceans of Possibilities",  for Adults, Teens and Children.
+
+Come dunk the Mayor at the library dunking booth!!
