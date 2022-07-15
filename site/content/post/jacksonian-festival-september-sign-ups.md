@@ -7,4 +7,4 @@ description: Anyone interested in participating in Jacksonian Festivities as a
 ---
 Grandest Ole Opry will be held on Friday and Saturday, September 16 and 17, at the Allen County-Scottsville High School Auditorium. 
 
-If you want to audition, contact Susan Carter at the Scottsville-Allen County Chamber of Commerce at 270.237.4418
+If you want to audition, contact Susan Carter at the Scottsville-Allen County Chamber of Commerce at 270.237.4782
