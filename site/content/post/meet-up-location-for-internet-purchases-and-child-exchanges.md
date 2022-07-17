@@ -10,4 +10,4 @@ The address of the location is 115 S 1st Street, Scottsville, KY.
 
 Scottsville Police Chief Darren Tabor created this location to ensure that people making internet purchases are safe to meet and complete the transaction. 
 
-I’m addition, parents who do child exchanges will have a location that is under 24 surveillance and well lit for visibility.
+In addition, parents who do child exchanges will have a location that is under 24 surveillance and well lit for visibility.
