@@ -82,18 +82,13 @@ contact_entries:
       PHONE: 270-237-3584  
       Email: BSloan@CityofScottsville.org  
 
+      Kerry Harwood
       Scottsville Transit  
       Transit Manager  
       201 West Main Street, Suite 10  
       Scottsville, KY 42164  
-      PHONE: 270-237-3238  
-      Email:   
-
-      Michala Thomas, Assistant Transit Manager  
-      201 West Main Street, Suite 11  
-      Scottsville, KY 42164  
       PHONE: 270-239-3239  
-      Email: MThomas@CityofScottsville.org  
+      Email:  khardwood@cityofscottsville.org
 
       Crescent Hill Cemetery  
       Edward Williams, Cemetery Sexton  
@@ -122,17 +117,17 @@ contact_entries:
       PHONE: 270-237-3064  
 
       Scottsville Water & Gas Department  
-      Johnna Hobdy, Gas Clerk  
+      Angel Clark, Gas Clerk  
       201 West Main Street  
       Scottsville, KY 42164  
       PHONE: 270-237-4402  
-      Email: JHobdy@CityofScottsville.org  
+      Email: Aclark@CityofScottsville.org  
 
-      Marsha Britt, Water Clerk  
+      Michala Thomas, Water Clerk  
       201 West Main Street  
       Scottsville, KY 42164  
       PHONE: 270-237-3831  
-      Email: MBritt@CityofScottsville.org  
+      Email: Mthomas@CityofScottsville.org  
       Office Hours: 8:00 a.m. to 4:30 p.m. / Mon. thru Fri.  
 
       Scottsville Police Department  
