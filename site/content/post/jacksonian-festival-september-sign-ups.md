@@ -1,5 +1,5 @@
 ---
-title: Jacksonian Festival September Sign Ups Deadline August 12
+title: Jacksonian Festival  Sign Ups Deadline August 12
 draft: false
 date: 2022-07-15T20:33:51.311Z
 description: Anyone interested in participating in Jacksonian Festivities as a
