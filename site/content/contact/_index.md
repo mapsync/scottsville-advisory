@@ -121,13 +121,14 @@ contact_entries:
       201 West Main Street  
       Scottsville, KY 42164  
       PHONE: 270-237-4402  
-      Email: Aclark@CityofScottsville.org  
+      Email: Mbritt@CityofScottsville.org  
 
       Michala Thomas & Angel Clark, Water Clerks  
       201 West Main Street  
       Scottsville, KY 42164  
       PHONE: 270-237-3831  
-      Email: Mthomas@CityofScottsville.org  
+      Email: Mthomas@CityofScottsville.org 
+       Aclark@CityofScottsville.org
       Office Hours: 8:00 a.m. to 4:30 p.m. / Mon. thru Fri.  
 
       Scottsville Police Department  
