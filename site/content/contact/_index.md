@@ -117,13 +117,13 @@ contact_entries:
       PHONE: 270-237-3064  
 
       Scottsville Water & Gas Department  
-      Angel Clark, Gas Clerk  
+      Marsha Britt, Gas Clerk  
       201 West Main Street  
       Scottsville, KY 42164  
       PHONE: 270-237-4402  
       Email: Aclark@CityofScottsville.org  
 
-      Michala Thomas, Water Clerk  
+      Michala Thomas & Angel Clark, Water Clerks  
       201 West Main Street  
       Scottsville, KY 42164  
       PHONE: 270-237-3831  
