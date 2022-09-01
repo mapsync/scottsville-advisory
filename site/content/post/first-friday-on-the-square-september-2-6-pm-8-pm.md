@@ -8,4 +8,4 @@ description: >-
 
   Our local shops, restaurants and boutiques extend their hours for your unique experience on the Scottsville Square.
 ---
-The Square, including one block off will close to traffic at 4 PM  in order for vendors and other participants to set up and ensure vehicles are cleared from each quadrant by the start time of 6 PM.
+The Square, including one block off, will close to traffic at 4 PM  in order for vendors and other participants to set up and ensure vehicles are cleared from each quadrant by the start time of 6 PM.
