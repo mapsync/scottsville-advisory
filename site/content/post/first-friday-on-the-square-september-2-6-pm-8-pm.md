@@ -4,7 +4,7 @@ draft: false
 date: 2022-08-31T11:48:50.847Z
 description: >-
   First Friday festivities include Kentucky Proud Certified Farmers Market,
-  local entertainment, food vendors and craft vendors.
+  local entertainment, food vendors, craft vendors and car show.
 
   Our local shops, restaurants and boutiques extend their hours for your unique experience on the Scottsville Square.
 ---
