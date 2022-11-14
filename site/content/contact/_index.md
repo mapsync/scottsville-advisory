@@ -34,7 +34,7 @@ contact_entries:
 
       City Council meetings are held the 2nd Monday of each month at noon at City Hall and the 4th Monday of each month at 6:00 pm.
   - heading: Information
-    text: |
+    text: |+
       Mayor’s Office  
       David Burch, Mayor  
       201 West Main Street, Suite 10  
@@ -148,5 +148,12 @@ contact_entries:
       201 W Main Street  
       Scottsville, KY 42164  
       PHONE: (270) 237-3561; Emergency DIAL 911
+
+      Scottsville Code Enforcement
+      Jerry Biddle, Code Enforcement Officer
+      110 S. Court St.
+      Scottsville, KY 42164
+      PHONE: (270) 606-0394
+      EMAIL:  jbiddle@cityofscottsville.org
 ---
 Contacts
