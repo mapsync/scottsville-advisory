@@ -7,4 +7,4 @@ description: "Scottsville City Transit is accepting applications for a full-time
 ---
 Applications can be filled out and submitted online at cityofscottsville.org. 
 
-Applications can also be picked up at the Transit Office at the Washington Center or City Hall.
+Applications can also be picked up at the Transit Office located at the Washington Center or City Hall.
