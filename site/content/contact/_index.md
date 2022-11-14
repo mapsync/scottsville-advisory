@@ -149,11 +149,11 @@ contact_entries:
       Scottsville, KY 42164  
       PHONE: (270) 237-3561; Emergency DIAL 911
 
-      Scottsville Code Enforcement
-      Jerry Biddle, Code Enforcement Officer
-      110 S. Court St.
-      Scottsville, KY 42164
-      PHONE: (270) 606-0394
+      Scottsville Code Enforcement  
+      Jerry Biddle, Code Enforcement Officer  
+      110 S. Court St.  
+      Scottsville, KY 42164  
+      PHONE: (270) 606-0394  
       EMAIL:  jbiddle@cityofscottsville.org
 ---
 Contacts
