@@ -1,5 +1,5 @@
 ---
-title: Business Coach Available 2nd Tuesday of Each Month at the Washington Center
+title: "Business Coach Available 2nd Tuesday of Each Month "
 draft: false
 date: 2022-11-16T13:19:37.785Z
 description: Small Business Development Center in Bowling Green, KY and the
