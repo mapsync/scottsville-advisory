@@ -1,5 +1,5 @@
 ---
-title: Leaf Pick Up Map
+title: "Leaf Pick Up Map and Schedule "
 draft: false
 date: 2022-12-05T04:05:58.380Z
 description: "The City of Scottsville is divided into four zones for leaf pick-up service. "
