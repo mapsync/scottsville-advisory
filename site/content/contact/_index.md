@@ -85,7 +85,7 @@ contact_entries:
       Kerry Harwood
       Scottsville Transit  
       Transit Manager  
-      201 West Main Street, Suite 10  
+      110 S. Court St. 
       Scottsville, KY 42164  
       PHONE: 270-239-3239  
       Email:  khardwood@cityofscottsville.org
