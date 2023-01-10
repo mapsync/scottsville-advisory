@@ -21,20 +21,20 @@ contact_entries:
     text: >
       Beverly Tracy Anderson
 
-      Rogerlynne Briddon
+      Shane Blankenship
 
       Dr. Franklin Foster
 
-      Ken Goforth
+      Heather Gatewood
 
       Dr. Mark Huntsman
 
-      Michael McGuire
+      Michael Wilson
 
 
       City Council meetings are held the 2nd Monday of each month at noon at City Hall and the 4th Monday of each month at 6:00 pm.
   - heading: Information
-    text: |+
+    text: |
       Mayor’s Office  
       David Burch, Mayor  
       201 West Main Street, Suite 10  
