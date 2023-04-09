@@ -8,4 +8,4 @@ description: "Scottsville City Council will meet in regular session at Noon on
 ---
 You can watch the meeting live on City of Scottsville Facebook page. 
 
-The meeting will be live on WLCK-1250 AM or 100.1 FM.
+The meeting will be broadcast on WLCK-1250 AM and 100.1 FM.
