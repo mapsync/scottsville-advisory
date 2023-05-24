@@ -5,6 +5,7 @@ date: 2023-05-24T13:04:54.924Z
 description: Resolution No. 105-23 amends the process of handling junk and bulk
   trash items within the City of Scottsville. The City will discontinue picking
   up junk and bulk items on a daily and/or weekly basis effective July 1, 2023.
+image: /img/img_7085.jpeg
 ---
 A﻿s stated in the resolution, there will be no change in brush pick up. You can still call the Mayor's office at 270.237.3238 to get on the brush pick up list.
 
