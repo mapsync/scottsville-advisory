@@ -21,14 +21,19 @@ contact_entries:
     text: >
       *Beverly Tracy Anderson 
         Email:  btainky@nctc.com
+
       *Shane Blankenship
         Email:  sblankenship@thefisher.co
+
       *Dr. Franklin Foster
         Email:  fosterfgrp@hotmail.com
+
       *Heather Gatewood
         Email:  heather.gatewood@allen.kyschools.us
+
       *Dr. Mark Huntsman
         Email:  marco@nctc.com
+
       *Michael Wilson
         Email:  mpwilson38@gmail.com
 
