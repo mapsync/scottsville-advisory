@@ -19,18 +19,18 @@ contact_entries:
       https://www.facebook.com/cityofscottsville
   - heading: City Council
     text: >
-      *Beverly Tracy Anderson
-
+      *Beverly Tracy Anderson 
+        Email:  btainky@nctc.com
       *Shane Blankenship
-
+        Email:  sblankenship@thefisher.co
       *Dr. Franklin Foster
-
+        Email:  fosterfgrp@hotmail.com
       *Heather Gatewood
-
+        Email:  heather.gatewood@allen.kyschools.us
       *Dr. Mark Huntsman
-
+        Email:  marco@nctc.com
       *Michael Wilson
-
+        Email:  mpwilson38@gmail.com
 
       City Council meetings are held the 2nd Monday of each month at noon at City Hall and the 4th Monday of each month at 6:00 pm.
   - heading: Information
