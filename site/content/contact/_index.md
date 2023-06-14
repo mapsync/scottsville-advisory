@@ -26,7 +26,7 @@ contact_entries:
         Email:  sblankenship@thefisher.co
 
       *Dr. Franklin Foster
-        Email:  fosterfgrp@hotmail.com
+        Email:  franklinlylesfoster@gmail.com
 
       *Heather Gatewood
         Email:  heather.gatewood@allen.kyschools.us
