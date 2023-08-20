@@ -2,8 +2,8 @@
 title: Earthcam Not Operating At This Time
 draft: false
 date: 2023-07-07T20:43:36.348Z
-description: Earthcam hasn't been operating since the storm last weekend.
+description: New Earthcam camera is in!
 ---
-W﻿e will be running diagnostics with Earthcam Technical Support early next week to determine if the camera was damaged by the storm.
+The new camera has been received and we’re working on getting it back online. 
 
 W﻿e will have it back ASAP!!  Thank you for your patience.
