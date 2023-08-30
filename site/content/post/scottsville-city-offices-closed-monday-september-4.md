@@ -7,4 +7,4 @@ description: "Scottsville City Offices will be closed Monday, September 4, 2023,
 ---
 M﻿onday trash will be picked up on Tuesday, September 5, along with regular Tuesday customers.
 
-T﻿here will be no bus service on Monday.  Bus service will resume normal route on Tuesday.
+T﻿here will be no bus service on Monday.  Bus service will resume normal schedule on Tuesday.
