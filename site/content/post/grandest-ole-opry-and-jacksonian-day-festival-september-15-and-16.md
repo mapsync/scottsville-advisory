@@ -1,5 +1,5 @@
 ---
-title: Grandest Ole Opry and Jacksonian Day Festival September 15 and 16
+title: Grandest Ole Opry, CORE 5K and Jacksonian Day Festival
 draft: false
 date: 2023-09-07T12:43:57.674Z
 description: >
