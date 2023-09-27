@@ -7,6 +7,10 @@ description: To Request pick up services for junk and/or bulk items during the
 ---
 **A﻿ll Items must follow the guidelines listed below to be eligible for pick-up.**
 
-1. **L﻿arge junk and bulk trash items ( i.e., furniture, appliances, and other items too large to fit in a standard garbage container)**
+**L﻿arge junk and bulk trash items ( i.e., furniture, appliances, and other items too large to fit in a standard garbage container)**
 
-![]()
+**A﻿ll mattressess to be disposed of MUST be wrapped in a plastic cover**
+
+**T﻿his DOES NOT include brush pick-up.  This can be requested separately.**
+
+**I﻿f you have any questions, please call us at the phone number listed above for assistance.**
