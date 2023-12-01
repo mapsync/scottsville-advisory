@@ -1,8 +1,9 @@
 ---
-title: 2023 City Property Taxes Mailed
+title: 2023 City Property Taxes Discount Deadline December 15, 2023
 draft: false
 date: 2023-09-22T14:49:55.549Z
-description: "2023 City of Scottsville Property Taxes are in the mail. "
+description: Reminder to take advantage of the 2% discount if you pay City
+  Property Taxes by December 15, 2023.
 image: /img/img_3512.jpeg
 ---
 Last year postcards were all blue, but due to blue card stock being unavailable this year, there’s a blue strip that identifies the card as the tax bill. 
