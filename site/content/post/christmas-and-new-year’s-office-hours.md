@@ -6,12 +6,14 @@ description: >-
   Scottsville City Offices will be closed on Monday, December 25 and Tuesday,
   December 26, in observance of Christmas. 
 
-  Scottsville City Offices will be closed Monday, January 1, and Tuesday, January 2, in observance of New Year’s.
+  Scottsville City Offices will be closed Friday, December 29 and Monday, January 1,  in observance of New Year’s.
 ---
-Monday trash will be picked up on Wednesday, along with regular Wednesday customers. 
+**C﻿hristmas Schedule**
 
-Tuesday trash will be picked up on Thursday, along with regular Thursday customers. 
+M﻿onday trash will be picked up on Wednesday, December 27, and Tuesday trash will be picked up on Thursday, December 28. 
 
-This trash pick up schedule applies to both Christmas and New Year’s. 
+**N﻿ew Year's Schedule**
 
-There will be no bus service on Monday and Tuesday of both weeks.
+F﻿riday trash will be picked up on Tuesday, January 2, and Monday trash will be picked up on Wednesday, January 3.
+
+T﻿here will be no bus service on December 25, 26, 29 and January 1.
