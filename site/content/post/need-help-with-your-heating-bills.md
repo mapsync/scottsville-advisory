@@ -7,4 +7,4 @@ description: Community Action of Southern Kentucky, Allen County, can provide
 ---
 Community Action is located at 25 J L Turner and Son Pl Scottsville, Kentucky 42164.
 
-P﻿hone Numb(270) 237-4149
+P﻿hone Number:  (270) 237-4149
