@@ -1,7 +1,7 @@
 ---
-title: Need Help With Your Heating Bills?
+title: Need Help With Your Cooling Costs?
 draft: false
-date: 2024-01-26T20:40:19.460Z
+date: 2024-04-30T15:15:42.021Z
 description: Community Action of Southern Kentucky, Allen County, can provide
   assistance if you qualify.
 ---
