@@ -116,7 +116,7 @@ contact_entries:
       Email: CKeen@CityofScottsville.org  
 
       Scottsville City Warehouse  
-      Roger Cherry, Supervisor  
+      Daniel Herrington, Supervisor  
       403 Old Gallatin Rd  
       Scottsville, KY 42164  
       PHONE: 270-237-3064  
