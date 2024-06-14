@@ -1,6 +1,5 @@
 ---
-title: Boil Water Advisory for White Plains , Fred Hale Ballpark and Highway 100
-  Areas Until Further Notice
+title: Boil Water Advisory Has Been Lifted
 draft: false
 date: 2024-06-13T18:49:16.479Z
 description: "A boil water advisory has been issued for the area designated in
