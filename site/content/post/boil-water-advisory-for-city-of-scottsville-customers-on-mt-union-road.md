@@ -8,4 +8,4 @@ description: >-2
   Reference map for area of advisory.
 image: /img/june19_2024.jpeg
 ---
-The leak should be repaired today and samples sent to lab for testing. As soon as results are received, KY Division of Water will notify us of the advisory cancellation.  We expect this by Thursday afternoon.
+The leak should be repaired today and samples sent to lab for testing. As soon as results are received, KY Division of Water will notify us of the advisory cancellation.  We expect advisory to be lifted by Friday.
