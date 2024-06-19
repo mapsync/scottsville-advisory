@@ -6,5 +6,6 @@ description: >-2
    A boil water advisory has been issued for city water customers for the Mt. Union Road area until further notice. 
 
   Reference map for area of advisory.
+image: /img/june19_2024.jpeg
 ---
 The leak should be repaired today and samples sent to lab for testing. As soon as results are received, KY Division of Water will notify us of the advisory cancellation.  We expect this by Thursday afternoon.
