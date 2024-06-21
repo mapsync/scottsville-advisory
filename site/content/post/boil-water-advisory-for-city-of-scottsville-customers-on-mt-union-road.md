@@ -1,5 +1,5 @@
 ---
-title: Boil Water Advisory for City of Scottsville Customers on Mt. Union Road
+title: Boil Water Advisory on Mt. Union Road HAS BEEN LIFTED
 draft: false
 date: 2024-06-19T21:13:17.878Z
 description: >-2
