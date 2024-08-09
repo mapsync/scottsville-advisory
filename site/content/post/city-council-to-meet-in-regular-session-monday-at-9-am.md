@@ -9,6 +9,7 @@ description: >-
 
 
   **NOTE RECENT CHANGE IN TIME OF MEETING**
+image: /img/img_5969.jpeg
 ---
 T﻿he meeting will be broadcast on City of Scottsville Facebook page.
 
