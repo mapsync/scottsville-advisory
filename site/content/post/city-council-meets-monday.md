@@ -5,6 +5,7 @@ date: 2024-09-07T07:02:53.337Z
 description: "Scottsville City Council will be in regular session on Monday,
   September 9, 2024, at 9 AM in the council room located on the 2nd floor of the
   City-County Building located at 201 W Main Street, Scottsville, KY. "
+image: /img/img_6445.png
 ---
 \
 The public is invited to attend the meeting. 
