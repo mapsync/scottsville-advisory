@@ -8,6 +8,7 @@ description: >-
 
 
   Jacksonian Days and Med Center-CORE 5 K and 1 Mile fun run-walk will be Saturday, September 21.
+image: /img/img_6603.jpeg
 ---
 Medical Center-CORE Walk-Fun Run will start at 8:15 AM in front of Solid Grounds Coffee Shop on East Main Street. 
 
