@@ -10,6 +10,13 @@ description: >-
   Jacksonian Days and Med Center-CORE 5 K and 1 Mile fun run-walk will be Saturday, September 21.
 image: /img/img_6603.jpeg
 ---
+\
+Jacksonian Days Festival runs from 9 AM to 3 PM. 
+
+Wall of Fame induction ceremony will be at 10 AM. 
+
+
+
 Medical Center-CORE Walk-Fun Run will start at 8:15 AM in front of Solid Grounds Coffee Shop on East Main Street. 
 
 5K starts at 8:30 AM. 
