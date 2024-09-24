@@ -1,5 +1,5 @@
 ---
-title: "Junk and Bulk Trash Pick Up Week October October 14th-October 18th "
+title: "Junk and Bulk Trash Pick Up Week October 14th-October 18th "
 draft: false
 date: 2024-09-23T17:16:45.749Z
 description: To request pick up services for junk and/or bulk items during the
