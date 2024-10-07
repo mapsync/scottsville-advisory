@@ -1,5 +1,5 @@
 ---
-title: City of Scottsville will begin Fire Hydrant Flushing on August 14, 2024
+title: City of Scottsville Continues  Fire Hydrant Flushing Program
 draft: false
 date: 2024-08-14T11:47:02.546Z
 description: >-
