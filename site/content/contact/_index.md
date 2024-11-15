@@ -156,7 +156,7 @@ contact_entries:
 
       Scottsville Code Enforcement  
       Jerry Biddle, Code Enforcement Officer  
-      110 S. Court St.  
+      201 W Main Street  
       Scottsville, KY 42164  
       PHONE: (270) 606-0394  
       EMAIL:  jbiddle@cityofscottsville.org
