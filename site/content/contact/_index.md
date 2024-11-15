@@ -20,24 +20,24 @@ contact_entries:
   - heading: City Council
     text: >
       *Beverly Tracy Anderson 
-        Email:  btainky@nctc.com
+        Email:  banderson@cityofscottsville.org
 
       *Shane Blankenship
-        Email:  sblankenship@thefisher.co
+        Email:  sblankenship@cityofscottsville.org
 
       *Dr. Franklin Foster
-        Email:  franklinlylesfoster@gmail.com
+        Email:  ffoster@cityofscottsville.org
 
       *Heather Gatewood
-        Email:  heather.gatewood@allen.kyschools.us
+        Email:  hgatewood@cityofscottsville.org
 
       *Dr. Mark Huntsman
-        Email:  marco@nctc.com
+        Email:  mhuntsman@cityofscottsville.org
 
       *Michael Wilson
-        Email:  mpwilson38@gmail.com
+        Email:  mwilson@cityofscottsville.org
 
-      City Council meetings are held the 2nd Monday of each month at noon at City Hall and the 4th Monday of each month at 6:00 pm.
+      City Council meetings are held the 2nd Monday of each month at 9:30 am at City Hall and the 4th Monday of each month at 6:00 pm.
   - heading: Information
     text: |
       Mayor’s Office  
@@ -53,6 +53,13 @@ contact_entries:
       Scottsville, KY 42164  
       PHONE: 270-237-3831  
       Email: GCook@CityofScottsville.org  
+
+      City Attorney
+      Hallye Arterburn
+      201 West Main Street, Suite 203
+      Scottsville. KY 42164
+      PHONE:  270-237-3117
+      Email:  harterburn@cityofscottsville.org
 
       City Clerk’s Office  
       Lauren Cherry
@@ -128,7 +135,7 @@ contact_entries:
       PHONE: 270-237-4402  
       Email: Mbritt@CityofScottsville.org  
 
-      Michala Thomas & Angel Clark, Water Clerks  
+      Michala Oliver & Angel Clark, Water Clerks  
       201 West Main Street  
       Scottsville, KY 42164  
       PHONE: 270-237-3831  
@@ -143,7 +150,7 @@ contact_entries:
       PHONE: (270) 237-3768; Emergency DIAL 911  
 
       Scottsville 911 Dispatch  
-      Maddie Calvert, Dispatch Supervisor  
+      Maddie Wolfe, Dispatch Supervisor  
       192 W Wood Street  
       Scottsville, KY 42164  
       PHONE: (270) 237-3611; Emergency DIAL 911  
