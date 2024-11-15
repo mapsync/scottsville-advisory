@@ -54,13 +54,6 @@ contact_entries:
       PHONE: 270-237-3831  
       Email: GCook@CityofScottsville.org  
 
-      City Attorney  
-      Hallye Arterburn
-      201 W. Main St, Suite 203
-      Scottsville, KY 42164  
-      PHONE: 270-237-3117 
-      Email: HArternurn@CityofScottsville.org 
-
       City Clerk’s Office  
       Lauren Cherry
       201 West Main Street, Suite 10  
@@ -167,5 +160,12 @@ contact_entries:
       Scottsville, KY 42164  
       PHONE: (270) 606-0394  
       EMAIL:  jbiddle@cityofscottsville.org
+
+      City Attorney  
+      Hallye Arterburn
+      201 W. Main St, Suite 203
+      Scottsville, KY 42164  
+      PHONE: 270-237-3117 
+      Email: HArterburn@CityofScottsville.org
 ---
 Contacts
