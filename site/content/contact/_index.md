@@ -56,7 +56,7 @@ contact_entries:
 
       City Attorney  
       Hallye Arterburn
-      201 West Main St, Suite 203
+      201 W. Main St, Suite 203
       Scottsville, KY 42164  
       PHONE: 270-237-3117 
       Email: HArternurn@CityofScottsville.org 
