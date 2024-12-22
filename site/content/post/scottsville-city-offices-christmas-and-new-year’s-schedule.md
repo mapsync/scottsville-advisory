@@ -6,6 +6,7 @@ description: >-
   City offices will be closed on Tuesday and Wednesday, December 24 and December
   25, in observance of Christmas. 
 
+
   City offices will be closed on Tuesday and Wednesday, December 31 and January 1 in observance of New Year’s. 
 
 
