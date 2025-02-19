@@ -1,10 +1,10 @@
 ---
-title: City Offices Open at 10 am
+title: City and County Offices Open at 10 am
 draft: false
 date: 2025-02-19T12:08:34.363Z
 description: >-
-  Scottsville City Offices will open at 10 am this morning due to road
-  conditions. 
+  Scottsville City Offices and Allen County Offices will open at 10 am this
+  morning due to road conditions. 
 
 
   No City bus service today.
