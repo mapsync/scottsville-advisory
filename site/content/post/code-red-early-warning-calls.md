@@ -10,4 +10,4 @@ Go to **allencountykentucky.com**
 
 Go to bottom of page and follow instructions to sign up for the Code Red Warning Calls. 
 
-Any questions, call Kudge Harper’s office at 270.237.3631.
+Any questions, call Judge Harper’s office at 270.237.3631.
