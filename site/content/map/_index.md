@@ -1,6 +1,6 @@
 ---
-center: '{"type":"Point","coordinates":[-86.1927223,36.7512639]}'
-zoom: 10
+center: '{"type":"Point","coordinates":[-86.1936665,36.7503011]}'
+zoom: 5
 title: Map
 label: City of Scottsville
 description: |-
