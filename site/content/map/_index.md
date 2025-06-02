@@ -1,8 +1,8 @@
 ---
-center: '{"type":"Point","coordinates":[-86.2122917,36.7436299]}'
-zoom: 13
+center: '{"type":"Point","coordinates":[-86.1927223,36.7512639]}'
+zoom: 16
 title: Map
-label: Zone 1
+label: City of Scottsville
 description: |-
   2020 Loose Leaf Pick Up Program
   (See advisory article for details and dates)
