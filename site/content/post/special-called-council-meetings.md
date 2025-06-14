@@ -5,6 +5,7 @@ date: 2025-06-13T17:57:54.061Z
 description: >
   Scottsville City Council will be in special called session on Monday, June 16
   and Tuesday, June 17, 2025,  at 7:30 PM in the Council Room.
+image: /img/img_3414.jpeg
 ---
 The meetings will be carried on City Facebook. 
 
