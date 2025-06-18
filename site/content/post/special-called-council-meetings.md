@@ -1,12 +1,10 @@
 ---
-title: "Special Called Council Meetings "
+title: Special Called Council Meeting
 draft: false
 date: 2025-06-13T17:57:54.061Z
 description: >
-  Scottsville City Council will be in special called session on Monday, June 16
-  and Tuesday, June 17, 2025,  at 7:30 PM in the Council Room.
+  Scottsville City Council will be in special called session on Thursday, June
+  19, 2025, at 2:0”PM in the Council Room.
 image: /img/img_3415.jpeg
 ---
-The meetings will be carried on City Facebook. 
-
-You can listen to the meetings on WLCK-1250 AM or 100.1 FM.
+The meetings will be carried on City Facebook.
