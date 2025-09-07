@@ -5,6 +5,7 @@ date: 2025-09-05T20:48:32.762Z
 description: "Scottsville City Council will be in regular session on Monday,
   September 8, 2025, at 9 AM in the Council Room located on the 2nd floor of the
   City-County Building located at 201 W Main Street, Scottsville, KY. "
+image: /img/img_4860.jpeg
 ---
 The meeting will be broadcast on City of Scottsville Facebook. 
 
