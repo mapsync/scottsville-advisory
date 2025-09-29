@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/android-chrome-192x192.png
+logo: /img/scottsville_2.png
 contact_entries:
   - heading: Address
     text: |
@@ -15,7 +15,7 @@ contact_entries:
     text: |
       Monday – Friday  
       8:00 a.m. – 4:30 p.m.  
-      https://www.CityofScottsville.org  
+      https://www.cityofscottsville.org
       https://www.facebook.com/cityofscottsville
   - heading: City Council
     text: >
@@ -87,9 +87,8 @@ contact_entries:
       PHONE: 270-237-3584  
       Email: BSloan@CityofScottsville.org  
 
-      Kerry Harwood
       Scottsville Transit  
-      Transit Manager  
+      Kerry Harwood, Transit Manager  
       110 S. Court St. 
       Scottsville, KY 42164  
       PHONE: 270-239-3239  
