@@ -1,5 +1,5 @@
 ---
-title: "Online Payments Now Available "
+title: "Online Utility Payments Now Available "
 draft: false
 date: 2025-09-30T12:45:08.970Z
 description: Utility customers can now make their payments online!
