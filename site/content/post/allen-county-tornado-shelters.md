@@ -7,6 +7,6 @@ image: /img/img_3074.jpeg
 ---
 Shelters will be open in the event of Tornado watches and warnings.
 
-Y﻿ou can also view the location of storm shelters below: 
+Y﻿ou can also view the location of storm shelters at the link below:
 
-<iframe src="https://scottsvillegis.maps.arcgis.com/apps/instant/basic/index.html?appid=c675d71f34bb42978468d169d86ce753" width="800" height="600" frameborder="0" style="border:0" allowfullscreen</iframe>
+[Allen County Storm Shelters](https://scottsvillegis.maps.arcgis.com/apps/instant/basic/index.html?appid=c675d71f34bb42978468d169d86ce753)
