@@ -9,7 +9,7 @@ title = "City of Scottsville"
     AppTitle = "Scottsville Advisory"
     Description = "Alerts and interactive map demostration"
     Facebook = ""
-    BillPay = ""
+    BillPay = "https://scottsvilleky.utilitydistrict.com"
 
 [blackfriday]
     extensions = ["hardLineBreak"]
