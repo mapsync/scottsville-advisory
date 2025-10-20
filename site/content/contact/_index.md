@@ -4,8 +4,8 @@ logo: /img/scottsville_2.png
 contact_entries:
   - heading: Important Links
     text: >
-      Water users have a new tool to monitor their water meter usage - Sign up here: <a target="_blank" src="https://scottsvilleky.watersmart.com/index.php/welcome">Water Smart</a>  
-      Fall is upon us!  Here is the Map Link for the <a target="_blank" href="https://scottsvillegis.maps.arcgis.com/apps/instant/basic/index.html?appid=5e353e461e61422a965850be8dcd7eed">Leaf Pickup Schedule</a>.  
+      Water users have a new tool to monitor their water meter usage - Sign up here: Water Smart https://scottsvilleky.watersmart.com/index.php/welcome 
+      Fall is upon us!  Here is the Map Link for the Leaf Pickup Schedule https://scottsvillegis.maps.arcgis.com/apps/instant/basic/index.html?appid=5e353e461e61422a965850be8dcd7eed.  
   - heading: Address
     text: |
       201 West Main Street  
