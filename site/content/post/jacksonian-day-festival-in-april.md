@@ -1,5 +1,5 @@
 ---
-title: "Jacksonian Day Festival in April "
+title: "Jacksonian Festival in April "
 draft: false
 date: 2026-02-10T04:14:58.637Z
 description: "Jacksonian Day has been moved to Saturday, April 18, 2026, the
