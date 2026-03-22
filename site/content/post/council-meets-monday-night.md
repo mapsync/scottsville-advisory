@@ -5,6 +5,7 @@ date: 2026-03-21T11:11:51.456Z
 description: "Scottsville City Council will be in regular session Monday, March
   23, 2026, at 6 PM in the Council Room located on the 2nd floor of the
   City-County Building, 201 W Main Street, Scottsville, KY. "
+image: /img/img_8507.jpeg
 ---
 The meeting will be broadcast on City Facebook and YouTube. 
 
