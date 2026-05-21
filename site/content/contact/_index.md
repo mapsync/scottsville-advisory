@@ -107,6 +107,7 @@ contact_entries:
       1425 Old Glasgow Rd  
       Scottsville, KY 42164  
       PHONE: (270) 618-0661  
+      Email: coroner.dd@gmail.com
 
       Scottsville Water Treatment Plant  
       Dillon Francis, WTP Supervisor  
