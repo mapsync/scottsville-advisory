@@ -3,11 +3,13 @@ title: Info
 logo: /img/scottsville_2.png
 contact_entries:
   - heading: Water Smart
-    text: |
-      Water users have a new tool to monitor their water meter usage - Sign up here: https://scottsvilleky.watersmart.com/index.php/welcome
+    text: >
+      Water users have a new tool to monitor their water meter usage - Sign up
+      here: https://scottsvilleky.watersmart.com/index.php/welcome
   - heading: Leaf Pickup Schedule
-    text: |
-      Fall is upon us!  Here is the Map Link for the Leaf Pickup Schedule: https://scottsvillegis.maps.arcgis.com/apps/instant/basic/index.html?appid=5e353e461e61422a965850be8dcd7eed
+    text: >
+      Fall is upon us!  Here is the Map Link for the Leaf Pickup Schedule:
+      https://scottsvillegis.maps.arcgis.com/apps/instant/basic/index.html?appid=5e353e461e61422a965850be8dcd7eed
   - heading: Address
     text: |
       201 West Main Street  
@@ -43,7 +45,7 @@ contact_entries:
       *Michael Wilson
         Email:  mwilson@cityofscottsville.org
 
-      City Council meetings are held the 2nd Monday of each month at 9:30 am at City Hall and the 4th Monday of each month at 6:00 pm.
+      City Council meetings are held the 2nd Monday of each month at 9:00 am at City Hall and the 4th Monday of each month at 6:00 pm.
   - heading: Information
     text: |
       Mayor’s Office  
@@ -101,10 +103,10 @@ contact_entries:
       Email:  khardwood@cityofscottsville.org
 
       Crescent Hill Cemetery  
-      Edward Williams, Cemetery Sexton  
+      Darren Davis, Cemetery Sexton  
       1425 Old Glasgow Rd  
       Scottsville, KY 42164  
-      PHONE: (270) 622-0598  
+      PHONE: (270) 618-0661  
 
       Scottsville Water Treatment Plant  
       Dillon Francis, WTP Supervisor  
@@ -142,9 +144,10 @@ contact_entries:
       Office Hours: 8:00 a.m. to 4:30 p.m. / Mon. thru Fri.  
 
       Scottsville Police Department  
-      Darren Tabor, Police Chief  
+      Danny Wilson, Police Chief  
       192 W Wood Street  
       Scottsville, KY 42164  
+      Email:  d.wilson@scottsvillepolice.org
       PHONE: (270) 237-3768; Emergency DIAL 911  
 
       Scottsville 911 Dispatch  
