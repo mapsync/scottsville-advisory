@@ -8,4 +8,4 @@ description: "Scottsville City Council will be in special session Tuesday, June
 ---
 This is the council’s annual budget workshop to review the proposed FY2027 budget. 
 
-The public is invited to.
+The public is invited to attend.
